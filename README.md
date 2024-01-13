@@ -1,1 +1,3 @@
 # Django_samples
+UNI KE NEMIKHUNE VO SINISTRA
+40429832
